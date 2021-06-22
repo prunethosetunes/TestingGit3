@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         val testing2 = "b"
         val testing3 = "c"
         val testing4 = "d"
+        val testing5 = "e"
     }
 }
